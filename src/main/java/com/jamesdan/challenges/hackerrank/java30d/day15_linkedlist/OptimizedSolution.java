@@ -13,7 +13,7 @@ package com.jamesdan.challenges.hackerrank.java30d.day15_linkedlist;//package co
 //    }
 //}
 //
-//class Solution {
+//class OptimizedSolution {
 //
 //    public static  Node insert(Node head,int data) {
 //        //Complete this method
