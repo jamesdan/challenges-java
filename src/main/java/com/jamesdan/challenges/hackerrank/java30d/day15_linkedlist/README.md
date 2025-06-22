@@ -1,4 +1,4 @@
-# Day 14: Scope
+# Day 15: Linked List
 Reference: https://www.hackerrank.com/challenges/30-linked-list/problem
 
 

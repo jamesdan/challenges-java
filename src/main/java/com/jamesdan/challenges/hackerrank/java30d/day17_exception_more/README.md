@@ -1,4 +1,4 @@
-# Day 14: Scope
+# Day 17: Exceptions - More Exceptions
 Reference: https://www.hackerrank.com/challenges/30-more-exceptions/problem
 
 ### Objective
