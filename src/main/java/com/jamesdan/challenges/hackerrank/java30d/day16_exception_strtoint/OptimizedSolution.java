@@ -15,7 +15,7 @@ package com.jamesdan.challenges.hackerrank.java30d.day16_exception_strtoint;//pa
 //
 //
 //
-//public class Solution {
+//public class OptimizedSolution {
 //    public static void main(String[] args) throws IOException {
 //        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
 //

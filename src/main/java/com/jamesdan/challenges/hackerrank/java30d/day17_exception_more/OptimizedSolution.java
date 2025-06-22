@@ -6,7 +6,7 @@ package com.jamesdan.challenges.hackerrank.java30d.day17_exception_more;//packag
 //
 ////Write your code here
 //
-//class Solution{
+//class OptimizedSolution{
 //
 //    public static void main(String[] args) {
 //

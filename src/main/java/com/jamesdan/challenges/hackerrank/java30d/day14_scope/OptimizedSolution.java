@@ -16,7 +16,7 @@
 //
 //} // End of Difference class
 //
-//public class Solution {
+//public class OptimizedSolution {
 //
 //    public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
