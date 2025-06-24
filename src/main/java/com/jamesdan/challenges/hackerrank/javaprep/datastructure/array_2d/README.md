@@ -1,4 +1,4 @@
-# Java Prep: Data Structure - 2D Arraay
+# Java Prep: Data Structure - 2D Array
 Reference: https://www.hackerrank.com/challenges/java-2d-array/problem
 
 You are given a  2D array. An hourglass in an array is a portion shaped like this:
