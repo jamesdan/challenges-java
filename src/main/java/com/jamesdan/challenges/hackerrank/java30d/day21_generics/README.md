@@ -1,4 +1,4 @@
-# Day 20: Sorting
+# Day 21: Generics
 Reference: https://www.hackerrank.com/challenges/30-generics/problem
 
 ### Objective
